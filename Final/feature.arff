@@ -1,0 +1,3 @@
+@relation spooky
+@attribute Class { 'EAP', 'MWS', 'HPL'}
+@data

@@ -1,0 +1,22 @@
+year = 60 seconds/min * 60 minutes/hr * 24 hr/day * 365 day/year
+= 31,536,000 seconds
+
+second = year / 365day/r / 24hr/day / 60 minutes/hr / 60 seconds/min
+
+70 years = 2,207,520,000
+
+1,260,759,144
+
+1939 vs. 2009, 70 year difference
+
+3468279144
+
+1260759144 = 12/13/2009 18:52:24
+1260759144 / (60*60*24) = 14592.11972 = 12/13/1939 2:52 A.M.
+
+leap year year % 4 = 0
+
+if year % 4 != 0, days = 366 else days = 365
+
+number = count of seconds since 12:00 A.M. January 1, 1970
+

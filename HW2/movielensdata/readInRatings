@@ -1,0 +1,7 @@
+### read in from ratings.csv
+
+inFile = open("ratings.csv", "r")
+
+
+
+inFile.close()
